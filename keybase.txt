@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/g33k247
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://g33k247.github.io
+  * I am g33k247 (https://keybase.io/g33k247) on keybase.
+  * I have a public key ASBVBHRrM8ZcK15W6YWiEdWKAJoMVaNveuf0DomV62BKCgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012003903f37aa442702bf1182ae98ab4e3bafaa056e1d373bd6b8f64f6e62f2a24d0a",
+      "host": "keybase.io",
+      "kid": "01205504746b33c65c2b5e56e985a211d58a009a0c55a36f7ae7f40e8995eb604a0a0a",
+      "uid": "9b34cdd07520e8d6e24e8031f241ab19",
+      "username": "g33k247"
+    },
+    "merkle_root": {
+      "ctime": 1717274044,
+      "hash": "7fe33733fd8f7a5ae1956a7c4e4c223c98ac32f57d8ed1705d814652d3b671167f59a9efe48d94b62781ccc48c4cfb2d309b3eb22e45f3ed7f0c83c01de0854b",
+      "hash_meta": "4bc10800985ccf3c651ba034fe7350e3da133ab4c2831f73b0cae93ce2776a64",
+      "seqno": 25783480
+    },
+    "service": {
+      "entropy": "IrcpeP2363afLQDoZLXUvbhU",
+      "hostname": "g33k247.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.3.1"
+  },
+  "ctime": 1717274119,
+  "expire_in": 504576000,
+  "prev": "1d6d270c3a6bda4d91bd8b09db5e2448f022e6414f46260e4df53097bbf29066",
+  "seqno": 154,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVQR0azPGXCteVumFohHVigCaDFWjb3rn9A6JletgSgoKp3BheWxvYWTES5cCzJrEIB1tJww6a9pNkb2LCdteJEjwIuZBT0YmDk31MJe78pBmxCDqiazjgXofTIUFKDHKwDwqLzu1/FQ2EiuiAHYLw4cJFgIBwqNzaWfEQCgbcbJNzGTxDzBisOIhiUtAVE7R5fldZukXQeASX+JAFj7Ox+GQkdL7eAlMihUJzEZ/ULPP3clRV7Hj/vjLOwqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCD711lWN1bd2ncQDLinxUcUKGvvF0WYZn3uMpE1GJh8HaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/g33k247
+
+==================================================================
